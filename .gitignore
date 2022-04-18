@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+exercise.ipynb
+chromedriver.exe
+
+
 # API key
 roadapikey.txt
 kakaoapikey.txt
